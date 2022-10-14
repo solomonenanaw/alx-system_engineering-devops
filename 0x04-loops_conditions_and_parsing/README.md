@@ -1,2 +1,1 @@
-readme
-fo shell scrept
+update readme
