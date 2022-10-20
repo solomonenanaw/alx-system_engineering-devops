@@ -30,3 +30,6 @@ Note: Each Ruby script in the project matches regular expressions based on an ar
 
 5-beginning_and_end.rb: Ruby script that matches a regular expression starting with h and ending with n with any single character in between.
 
+6. Call me maybe
+
+6-phone_number.rb: Ruby script that matches a regular expression representing a 10-digit phone number.
