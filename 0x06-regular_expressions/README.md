@@ -33,3 +33,7 @@ Note: Each Ruby script in the project matches regular expressions based on an ar
 6. Call me maybe
 
 6-phone_number.rb: Ruby script that matches a regular expression representing a 10-digit phone number.
+
+7. OMG WHY ARE YOU SHOUTING?
+
+7-OMG_WHY_ARE_YOU_SHOUTING.rb: Ruby script that matches regular expressions of uppercase letters.
