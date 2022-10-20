@@ -26,3 +26,7 @@ Note: Each Ruby script in the project matches regular expressions based on an ar
 
 4-repetition_token_3.rb: Ruby script that matches the regular expression hbn with 0 or more t's in between hb and n.
 
+5. Not quite HBTN yet
+
+5-beginning_and_end.rb: Ruby script that matches a regular expression starting with h and ending with n with any single character in between.
+
