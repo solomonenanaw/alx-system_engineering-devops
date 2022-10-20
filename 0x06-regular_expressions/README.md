@@ -14,3 +14,7 @@ Note: Each Ruby script in the project matches regular expressions based on an ar
 
 1-repetition_token_0.rb: Ruby script that matches the regular expression hbn with between 2-5 t's in between hb and n.
 
+2. Repetition Token #1
+
+2-repetition_token_1.rb: Ruby script that matches the regular expression hn with 0 or 1 occurrences of b and 0 or 1 occurrences of t in between h and n.
+
