@@ -5,3 +5,6 @@ In this project, I learned how to use regular expressions. I practiced building 
 Tasks
 
 Note: Each Ruby script in the project matches regular expressions based on an argument passed to it via the command line.
+
+0. Simply matching School Ruby script that matches the regular expression School.
+
