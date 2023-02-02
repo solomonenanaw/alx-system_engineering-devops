@@ -51,4 +51,4 @@ def count_words(subreddit, word_list, after="", count=[]):
                 if (count[i] > 0) and i not in save:
                     print("{}: {}".format(word_list[i].lower(), count[i]))
         else:
-            count_words(subreddit, word_list, after, count)
+           u count_words(subreddit, word_list, after, count)
