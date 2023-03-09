@@ -1,7 +1,0 @@
-[34m
-* Datadog Agent 7 install script v1.13.0
-[0m
-[34m
-* Installing apt-transport-https, curl and gnupg
-[0m
-Hit:1 https://deb.nodesource.com/node_10.x focal InRelease

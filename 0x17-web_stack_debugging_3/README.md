@@ -1,1 +1,0 @@
-puppet with ruby
