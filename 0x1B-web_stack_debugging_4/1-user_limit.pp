@@ -1,4 +1,4 @@
-#Change Os Configuration
+#Change os Configuration
 exec { 'inc-user-limit':
   command => 'sed -i "/holberton hard/s/5/50000/" /etc/security/limits.conf',
   path    => '/usr/local/bin/:/bin/'
